@@ -1,1 +1,1 @@
-# Python_Odd_Even
+Simple Python Script To Find Out If A Number Is Odd Or Even
